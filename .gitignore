@@ -1,0 +1,7 @@
+examples/**/plugin_wrapper.go
+examples/**/host/host
+examples/**/*.so
+bin/chameleon
+
+.DS_Store
+.vscode
